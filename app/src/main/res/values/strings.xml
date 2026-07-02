@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">authscreen</string>
+    <string name="welcome_message">Welcome Back!</string>
+    <string name="facebook_button_label">Continue With Facebook</string>
+    <string name="google_button_label">Continue With Google</string>
+    <string name="log_in_by_email_label">or log in in With email</string>
+    <string name="email_text_field_label">Email address</string>
+    <string name="password_text_field_label">Password</string>
+    <string name="forget_password_label">Forget Password?</string>
+    <string name="log_in_button_label">Log in</string>
+    <string name="already_have_an_account">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="sign_up">"SIGN UP"</string>
+</resources>
