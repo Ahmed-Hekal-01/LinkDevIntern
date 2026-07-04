@@ -3,7 +3,7 @@
     <string name="welcome_message">Welcome Back!</string>
     <string name="facebook_button_label">Continue With Facebook</string>
     <string name="google_button_label">Continue With Google</string>
-    <string name="log_in_by_email_label">or log in in With email</string>
+    <string name="log_in_by_email_label">or log in With email</string>
     <string name="email_text_field_label">Email address</string>
     <string name="password_text_field_label">Password</string>
     <string name="forget_password_label">Forget Password?</string>
